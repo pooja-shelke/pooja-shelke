@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pooja-shelke
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Golang and Python
+- 👀 I’m interested in Selenium with Cucumber Framework
+- 🌱 I’m currently learning Selenium4
 - 📫 How to reach me on my mail id shelkepuja02@gmail.com
 
 <!---
